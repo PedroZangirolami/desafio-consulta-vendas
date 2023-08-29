@@ -1,5 +1,7 @@
 # Desafio Consulta Vendas
 
+## Sistema de vendas implementando consultas utilizando JPA, consultas SQL e JPQL
+
 Sistema de vendas onde cada venda está para um vendedor, e um vendedor pode ter várias vendas. Implementando consultas utilizando JPA, consultas SQL e JPQL
 para trazer os dados das vendas junto com o nome do vendedor e o total de vendas de cada vendedor em um determinado periodo.
 
